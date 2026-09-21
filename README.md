@@ -151,47 +151,47 @@ ProductPulse is designed with real-world deployment conditions in mind:
 
 ---
 
-###🔐 Trust & Verification
-Structured severity classification (Minor, Moderate, Severe)
-Reporter credibility weighting (Community, Verified, Organization)
-Aggregation of multiple reports into product-level insights
+###🔐 Trust & Verification<br>
+- Structured severity classification (Minor, Moderate, Severe)
+- Reporter credibility weighting (Community, Verified, Organization)
+- Aggregation of multiple reports into product-level insights<br>
 
 These mechanisms ensure that information is validated through consistency and patterns across reports.
 
 ---
 
-###📶 Low Bandwidth & Accessibility
-Lightweight data structure and simple interface design
-Minimal interaction required to submit reports
-Future support for SMS/USSD-based reporting
+###📶 Low Bandwidth & Accessibility<br>
+- Lightweight data structure and simple interface design
+- Minimal interaction required to submit reports
+- Future support for SMS/USSD-based reporting
 
 ---
 
-###♿ Accessibility & Inclusion
-Clear visual indicators for risk levels
-Simple reporting workflows
-Designed for users with varying digital literacy
+###♿ Accessibility & Inclusion<br>
+- Clear visual indicators for risk levels
+- Simple reporting workflows
+- Designed for users with varying digital literacy
 
 ---
 
-###🔒 Privacy & Security
-No requirement for sensitive personal data
-Reporter identity abstracted into trust categories
-Focus on safe and anonymous reporting
+###🔒 Privacy & Security<br>
+- No requirement for sensitive personal data
+- Reporter identity abstracted into trust categories
+- Focus on safe and anonymous reporting
 
 ---
 
-###🌍 Multilingual & Local Relevance
-Adaptable to different regions and regulatory systems
-Supports multilingual deployment
-Future integration of location intelligence for regional insights
+###🌍 Multilingual & Local Relevance<br>
+- Adaptable to different regions and regulatory systems
+- Supports multilingual deployment
+- Future integration of location intelligence for regional insights
 
 ---
 
-###👉 Clear Next Steps
+###👉 Clear Next Steps<br>
 
-ProductPulse does not just present data — it enables action:
+ProductPulse does not just present data — it enables action:<br>
 
-Helps authorities prioritize inspections
-Supports early detection and product recalls
-Enables targeted enforcement based on real-time risk signals
+- Helps authorities prioritize inspections
+- Supports early detection and product recalls
+- Enables targeted enforcement based on real-time risk signals
