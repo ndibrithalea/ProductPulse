@@ -1,20 +1,20 @@
 🧠 ProductPulse
 ProductPulse is an AI-powered product safety reporting and monitoring system that transforms individual user reports into actionable risk insights.
-<br>
+<br><br>
 
 🚨 Problem
 Many harmful or counterfeit products go undetected because:
 *reports are scattered
 *no structured tracking exists
 *authorities react too late
-<br>
+<br><br>
 
 💡 Solution
 ProductPulse enables:
 *real-time reporting of product issues
 *trust-weighted risk scoring
 *aggregation of reports into product-level insights
-<br>
+<br><br>
 
 ⚙️ How it works
 Users submit product reports
@@ -24,7 +24,7 @@ System evaluates:
 * Risk Score is calculated
 * Multiple reports are aggregated
 * High-risk products are flagged
-<br>
+<br><br>
 
 🔢 Risk Model
 
@@ -40,7 +40,7 @@ Risk Score = Severity Score × Trust Level
 | Community    | 1     |
 | Verified     | 2     |
 | Organization | 3     |
-<br>
+<br><br>
 
 
 📊 Key Features
@@ -49,9 +49,9 @@ Trust-weighted risk scoring
 Product-level aggregation
 Risk dashboard interface
 Analytics (severity & category trends)
-<br>
+<br><br>
 
-📍 Future Improvements
+📍 Future Improvements<br>
 Geolocation tracking (identify high-risk regions)
 AI-based fake product detection
 Integration with regulatory agencies
@@ -61,7 +61,7 @@ Integration with regulatory agencies
 This project was built using:
 * Airtable (data + logic + interface)
 * AI tools (ChatGPT, etc.)
-<br>
+<br><br>
 
 🎥 Demo
 https://youtu.be/Z5zk17AzDuE
