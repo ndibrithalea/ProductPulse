@@ -9,13 +9,15 @@ Many harmful or counterfeit products go undetected because:
 reports are scattered
 no structured tracking exists
 authorities react too late
-
+<br>
 💡 Solution
 ProductPulse enables:
+<br>
 
 real-time reporting of product issues
 trust-weighted risk scoring
 aggregation of reports into product-level insights
+<br>
 
 ⚙️ How it works
 Users submit product reports
@@ -25,6 +27,7 @@ System evaluates:
 * Risk Score is calculated
 * Multiple reports are aggregated
 * High-risk products are flagged
+<br>
 
 🔢 Risk Model
 
@@ -41,6 +44,8 @@ Risk Score = Severity Score × Trust Level
 | Verified     | 2     |
 | Organization | 3     |
 
+<br>
+
 📊 Key Features
 
 Real-time reporting system
@@ -49,11 +54,15 @@ Product-level aggregation
 Risk dashboard interface
 Analytics (severity & category trends)
 
+<br>
+
 📍 Future Improvements
 
 Geolocation tracking (identify high-risk regions)
 AI-based fake product detection
 Integration with regulatory agencies
+
+<br>
 
 🧪 Proof of Concept
 
@@ -61,6 +70,8 @@ This project was built using:
 
 * Airtable (data + logic + interface)
 * AI tools (ChatGPT, etc.)
+
+<br>
 
 🎥 Demo
 https://youtu.be/Z5zk17AzDuE
