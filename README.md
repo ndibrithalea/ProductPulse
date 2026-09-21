@@ -16,14 +16,15 @@ ProductPulse enables:
 real-time reporting of product issues
 trust-weighted risk scoring
 aggregation of reports into product-level insights
+
 ⚙️ How it works
 Users submit product reports
 System evaluates:
-Severity
-Reporter credibility
-Risk Score is calculated
-Multiple reports are aggregated
-High-risk products are flagged
+* Severity
+* Reporter credibility
+* Risk Score is calculated
+* Multiple reports are aggregated
+* High-risk products are flagged
 
 🔢 Risk Model
 
@@ -53,11 +54,13 @@ Analytics (severity & category trends)
 Geolocation tracking (identify high-risk regions)
 AI-based fake product detection
 Integration with regulatory agencies
+
 🧪 Proof of Concept
 
 This project was built using:
 
-Airtable (data + logic + interface)
-🎥 Demo
+* Airtable (data + logic + interface)
+* AI tools (ChatGPT, etc.)
 
-(Add your video link later)
+🎥 Demo
+https://youtu.be/Z5zk17AzDuE
