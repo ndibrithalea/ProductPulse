@@ -105,7 +105,7 @@ AI tools were used to:
 - Develop the risk scoring logic  
 - Structure workflows and reporting system  
 
-AI enabled rapid development of a functional and scalable proof of concept.
+AI enabled the rapid development of a functional and scalable proof of concept.
 
 ---
 
@@ -120,12 +120,15 @@ Watch the full demo here:
 You can explore different parts of ProductPulse through the live interface views below:
 
 ## 📊 Risk Monitoring Dashboard
-View overall system activity, risk scores, and trends. You can sort the data:<br>
+
+View overall system activity, risk scores, and trends. You can sort the data:
+
 👉 https://airtable.com/apphU5i8m1GuU4uc2/shrZsDKbMKJGDrDd2
 
 ---
 
 ## 🚨 High Risk Alerts
+
 See products flagged as high risk based on aggregated reports:
 
 👉 https://airtable.com/apphU5i8m1GuU4uc2/shrnzAQdsttDuAtOZ
@@ -133,6 +136,7 @@ See products flagged as high risk based on aggregated reports:
 ---
 
 ## 📈 Product Risk Analysis
+
 Explore insights by product category and severity patterns:
 
 👉 https://airtable.com/apphU5i8m1GuU4uc2/shrVuMuLiotglA03A
@@ -140,6 +144,7 @@ Explore insights by product category and severity patterns:
 ---
 
 ## 🗂️ Raw Reporting Data (Optional)
+
 View the underlying dataset used to power the system:
 
 👉 https://airtable.com/apphU5i8m1GuU4uc2/shrQKxDwFcBipZqnP/tblgWH7zMwmD7opdC/viwmF1hKViRsJf27O
@@ -166,37 +171,41 @@ These mechanisms ensure that information is validated through consistency and pa
 
 ---
 
-## 📶 Low Bandwidth & Accessibility<br>
+## 📶 Low Bandwidth & Accessibility
+
 - Lightweight data structure and simple interface design
 - Minimal interaction required to submit reports
 - Future support for SMS/USSD-based reporting
 
 ---
 
-## ♿ Accessibility & Inclusion<br>
+## ♿ Accessibility & Inclusion
+
 - Clear visual indicators for risk levels
 - Simple reporting workflows
 - Designed for users with varying digital literacy
 
 ---
 
-## 🔒 Privacy & Security<br>
+## 🔒 Privacy & Security
+
 - No requirement for sensitive personal data
 - Reporter identity abstracted into trust categories
 - Focus on safe and anonymous reporting
 
 ---
 
-## 🌍 Multilingual & Local Relevance<br>
+## 🌍 Multilingual & Local Relevance
+
 - Adaptable to different regions and regulatory systems
 - Supports multilingual deployment
 - Future integration of location intelligence for regional insights
 
 ---
 
-## 👉 Clear Next Steps<br>
+## 👉 Clear Next Steps
 
-ProductPulse does not just present data — it enables action:<br>
+ProductPulse does not just present data — it enables action:
 
 - Helps authorities prioritize inspections
 - Supports early detection and product recalls
