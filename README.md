@@ -1,75 +1,151 @@
-🧠 ProductPulse
+# 🧠 ProductPulse
 
-ProductPulse is an AI-powered product safety reporting and monitoring system that transforms individual user reports into actionable risk insights.
-<br><br>
+ProductPulse is an AI-powered product safety reporting and monitoring system that transforms individual user reports into actionable risk insights for communities and regulators.
 
-🚨 Problem
+---
+
+## 🚨 Problem
 
 Many harmful or counterfeit products go undetected because:
-* reports are scattered
-* no structured tracking exists
-* authorities react too late
-<br><br>
+- Reports are scattered across informal channels
+- No structured tracking system exists
+- Authorities often react too late, after harm has already spread
 
-💡 Solution
+---
+
+## 💡 Solution
 
 ProductPulse enables:
-* real-time reporting of product issues
-* trust-weighted risk scoring
-* aggregation of reports into product-level insights
-<br><br>
+- Real-time reporting of product issues
+- Trust-weighted risk scoring
+- Aggregation of reports into product-level intelligence
 
-⚙️ How it works
+By combining severity and credibility, the system identifies high-risk products early and supports faster, data-driven decision-making.
 
-Users submit product reports
-System evaluates:
-* Severity
-* Reporter credibility
-* Risk Score is calculated
-* Multiple reports are aggregated
-* High-risk products are flagged
-<br><br>
+---
 
-🔢 Risk Model
+## ⚙️ How It Works
 
-Risk Score = Severity Score × Trust Level
+1. Users submit product safety reports  
+2. The system evaluates:
+   - Severity of the issue  
+   - Reporter credibility  
+3. A Risk Score is calculated  
+4. Reports are aggregated across products  
+5. High-risk products are flagged for attention  
+
+---
+
+## 🔢 Risk Model
+
+**Risk Score = Severity Score × Trust Level**
+
+### Severity Scale
+
 | Severity | Score |
-| -------- | ----- |
-| Minor    | 1     |
-| Moderate | 2     |
-| Severe   | 3     |
+|----------|------|
+| Minor    | 1    |
+| Moderate | 2    |
+| Severe   | 3    |
 
-| Reporter     | Trust |
-| ------------ | ----- |
-| Community    | 1     |
-| Verified     | 2     |
-| Organization | 3     |
+### Trust Levels
 
-<br>
+| Reporter Type | Trust |
+|--------------|------|
+| Community    | 1    |
+| Verified     | 2    |
+| Organization | 3    |
 
-📊 Key Features
+---
 
-Real-time reporting system
-Trust-weighted risk scoring
-Product-level aggregation
-Risk dashboard interface
-Analytics (severity & category trends)
-<br><br>
+## 📊 Key Features
 
-📍 Future Improvements
+- Real-time reporting system  
+- Trust-weighted risk scoring  
+- Product-level aggregation  
+- Risk monitoring dashboard  
+- Analytics (severity and category trends)  
 
-Geolocation tracking (identify high-risk regions)
-AI-based fake product detection
-Integration with regulatory agencies
-<br><br>
+---
 
-🧪 Proof of Concept
+## 🏛️ Why This Matters
 
-This project was built using:<br>
-* Airtable (data + logic + interface)
-* AI tools (ChatGPT, etc.)
-<br><br>
+ProductPulse helps governments and regulatory bodies:
+- Detect harmful products earlier  
+- Identify patterns across categories and regions  
+- Prioritize inspections and enforcement  
+- Make evidence-based policy decisions  
 
-🎥 Demo<br>
+This shifts product safety from reactive responses to proactive intervention.
 
-https://youtu.be/Z5zk17AzDuE
+---
+
+## 🧪 Proof of Concept
+
+This project was built using:
+- Airtable (database, logic, and interface)  
+- AI tools (ChatGPT for system design and development support)  
+
+---
+
+## ▶️ How to View the Project
+
+- Demo Video: https://youtu.be/Z5zk17AzDuE  
+- Airtable Interface: *(add your shared link here if available)*  
+
+---
+
+## 📍 Future Improvements
+
+- Geolocation tracking (identify high-risk regions)  
+- AI-based fake product detection  
+- Integration with regulatory systems  
+
+---
+
+## 🤖 Use of AI
+
+AI tools were used to:
+- Design the system architecture  
+- Generate the database schema  
+- Develop the risk scoring logic  
+- Structure workflows and reporting system  
+
+AI enabled rapid development of a functional and scalable proof of concept.
+
+---
+
+## 🎥 Demo
+
+Watch the full demo here:  
+👉 https://youtu.be/Z5zk17AzDuE
+
+## 🌐 Explore the Live System (Airtable Interface)
+
+You can explore different parts of ProductPulse through the live interface views below:
+
+### 📊 Risk Monitoring Dashboard
+View overall system activity, risk scores, and trends. You can sort the data:
+👉 https://airtable.com/apphU5i8m1GuU4uc2/shrZsDKbMKJGDrDd2
+
+---
+
+### 🚨 High Risk Alerts
+See products flagged as high risk based on aggregated reports:
+👉 https://airtable.com/apphU5i8m1GuU4uc2/shrnzAQdsttDuAtOZ
+
+---
+
+### 📈 Product Risk Analysis
+Explore insights by product category and severity patterns:
+👉 https://airtable.com/apphU5i8m1GuU4uc2/shrVuMuLiotglA03A
+
+---
+
+### 🗂️ Raw Reporting Data (Optional)
+View the underlying dataset used to power the system:
+👉 https://airtable.com/apphU5i8m1GuU4uc2/shrQKxDwFcBipZqnP/tblgWH7zMwmD7opdC/viwmF1hKViRsJf27O
+
+---
+
+💡 Note: If Airtable requires sign-in, the full system walkthrough is available in the demo video.
