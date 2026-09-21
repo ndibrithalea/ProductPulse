@@ -117,25 +117,25 @@ Watch the full demo here:
 
 You can explore different parts of ProductPulse through the live interface views below:
 
-### 📊 Risk Monitoring Dashboard
+## 📊 Risk Monitoring Dashboard
 View overall system activity, risk scores, and trends. You can sort the data:<br>
 👉 https://airtable.com/apphU5i8m1GuU4uc2/shrZsDKbMKJGDrDd2
 
 ---
 
-### 🚨 High Risk Alerts
+## 🚨 High Risk Alerts
 See products flagged as high risk based on aggregated reports:<br>
 👉 https://airtable.com/apphU5i8m1GuU4uc2/shrnzAQdsttDuAtOZ
 
 ---
 
-### 📈 Product Risk Analysis
+## 📈 Product Risk Analysis
 Explore insights by product category and severity patterns:<br>
 👉 https://airtable.com/apphU5i8m1GuU4uc2/shrVuMuLiotglA03A
 
 ---
 
-### 🗂️ Raw Reporting Data (Optional)
+## 🗂️ Raw Reporting Data (Optional)
 View the underlying dataset used to power the system:<br>
 👉 https://airtable.com/apphU5i8m1GuU4uc2/shrQKxDwFcBipZqnP/tblgWH7zMwmD7opdC/viwmF1hKViRsJf27O
 
@@ -145,13 +145,13 @@ View the underlying dataset used to power the system:<br>
 
 ---
 
-###🌍 Real-World Considerations
+## 🌍 Real-World Considerations
 
 ProductPulse is designed with real-world deployment conditions in mind:
 
 ---
 
-###🔐 Trust & Verification<br>
+## 🔐 Trust & Verification<br>
 - Structured severity classification (Minor, Moderate, Severe)
 - Reporter credibility weighting (Community, Verified, Organization)
 - Aggregation of multiple reports into product-level insights<br>
@@ -160,35 +160,35 @@ These mechanisms ensure that information is validated through consistency and pa
 
 ---
 
-###📶 Low Bandwidth & Accessibility<br>
+## 📶 Low Bandwidth & Accessibility<br>
 - Lightweight data structure and simple interface design
 - Minimal interaction required to submit reports
 - Future support for SMS/USSD-based reporting
 
 ---
 
-###♿ Accessibility & Inclusion<br>
+## ♿ Accessibility & Inclusion<br>
 - Clear visual indicators for risk levels
 - Simple reporting workflows
 - Designed for users with varying digital literacy
 
 ---
 
-###🔒 Privacy & Security<br>
+## 🔒 Privacy & Security<br>
 - No requirement for sensitive personal data
 - Reporter identity abstracted into trust categories
 - Focus on safe and anonymous reporting
 
 ---
 
-###🌍 Multilingual & Local Relevance<br>
+## 🌍 Multilingual & Local Relevance<br>
 - Adaptable to different regions and regulatory systems
 - Supports multilingual deployment
 - Future integration of location intelligence for regional insights
 
 ---
 
-###👉 Clear Next Steps<br>
+## 👉 Clear Next Steps<br>
 
 ProductPulse does not just present data — it enables action:<br>
 
