@@ -75,7 +75,7 @@ ProductPulse helps governments and regulatory bodies:
 - Identify patterns across categories and regions  
 - Prioritize inspections and enforcement  
 - Make evidence-based policy decisions
-- ProductPulse also enables structured citizen reporting that strengthens the feedback loop between communities and public institutions.
+- Strengthen the feedback loop between communities and public institutions through structured citizen reporting
 
 This shifts product safety from reactive responses to proactive intervention.
 
@@ -165,7 +165,7 @@ ProductPulse is designed with real-world deployment conditions in mind:
 
 - Structured severity classification (Minor, Moderate, Severe)
 - Reporter credibility weighting (Community, Verified, Organization)
-- Aggregation of multiple reports into product-level insights<br>
+- Aggregation of multiple reports into product-level insights
 
 These mechanisms ensure that information is validated through consistency and patterns across reports.
 
