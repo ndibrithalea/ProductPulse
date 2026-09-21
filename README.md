@@ -71,5 +71,6 @@ This project was built using:<br>
 * AI tools (ChatGPT, etc.)
 <br><br>
 
-🎥 Demo
+🎥 Demo<br>
+
 https://youtu.be/Z5zk17AzDuE
