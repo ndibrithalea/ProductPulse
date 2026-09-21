@@ -119,7 +119,7 @@ Watch the full demo here:
 
 You can explore different parts of ProductPulse through the live interface views below:
 
-## 📊 Risk Monitoring Dashboard
+### 📊 Risk Monitoring Dashboard
 
 View overall system activity, risk scores, and trends. You can sort the data:
 
@@ -127,7 +127,7 @@ View overall system activity, risk scores, and trends. You can sort the data:
 
 ---
 
-## 🚨 High Risk Alerts
+### 🚨 High Risk Alerts
 
 See products flagged as high risk based on aggregated reports:
 
@@ -135,7 +135,7 @@ See products flagged as high risk based on aggregated reports:
 
 ---
 
-## 📈 Product Risk Analysis
+### 📈 Product Risk Analysis
 
 Explore insights by product category and severity patterns:
 
@@ -143,7 +143,7 @@ Explore insights by product category and severity patterns:
 
 ---
 
-## 🗂️ Raw Reporting Data (Optional)
+### 🗂️ Raw Reporting Data (Optional)
 
 View the underlying dataset used to power the system:
 
