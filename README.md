@@ -118,25 +118,25 @@ Watch the full demo here:
 You can explore different parts of ProductPulse through the live interface views below:
 
 ### 📊 Risk Monitoring Dashboard
-View overall system activity, risk scores, and trends. You can sort the data:
+View overall system activity, risk scores, and trends. You can sort the data:<br>
 👉 https://airtable.com/apphU5i8m1GuU4uc2/shrZsDKbMKJGDrDd2
 
 ---
 
 ### 🚨 High Risk Alerts
-See products flagged as high risk based on aggregated reports:
+See products flagged as high risk based on aggregated reports:<br>
 👉 https://airtable.com/apphU5i8m1GuU4uc2/shrnzAQdsttDuAtOZ
 
 ---
 
 ### 📈 Product Risk Analysis
-Explore insights by product category and severity patterns:
+Explore insights by product category and severity patterns:<br>
 👉 https://airtable.com/apphU5i8m1GuU4uc2/shrVuMuLiotglA03A
 
 ---
 
 ### 🗂️ Raw Reporting Data (Optional)
-View the underlying dataset used to power the system:
+View the underlying dataset used to power the system:<br>
 👉 https://airtable.com/apphU5i8m1GuU4uc2/shrQKxDwFcBipZqnP/tblgWH7zMwmD7opdC/viwmF1hKViRsJf27O
 
 ---
