@@ -74,7 +74,8 @@ ProductPulse helps governments and regulatory bodies:
 - Detect harmful products earlier  
 - Identify patterns across categories and regions  
 - Prioritize inspections and enforcement  
-- Make evidence-based policy decisions  
+- Make evidence-based policy decisions
+- ProductPulse also enables structured citizen reporting that strengthens the feedback loop between communities and public institutions.
 
 This shifts product safety from reactive responses to proactive intervention.
 
@@ -100,7 +101,7 @@ This project was built using:
 
 AI tools were used to:
 - Design the system architecture  
-- Generate the database schema  
+- Design the database schema  
 - Develop the risk scoring logic  
 - Structure workflows and reporting system  
 
@@ -124,7 +125,8 @@ View overall system activity, risk scores, and trends. You can sort the data:<br
 ---
 
 ## 🚨 High Risk Alerts
-See products flagged as high risk based on aggregated reports:<br>
+See products flagged as high risk based on aggregated reports:
+
 👉 https://airtable.com/apphU5i8m1GuU4uc2/shrnzAQdsttDuAtOZ
 
 ---
