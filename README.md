@@ -47,7 +47,6 @@ Risk Score = Severity Score × Trust Level
 
 <br><br>
 
-
 📊 Key Features
 
 Real-time reporting system
