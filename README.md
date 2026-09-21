@@ -45,7 +45,7 @@ Risk Score = Severity Score × Trust Level
 | Verified     | 2     |
 | Organization | 3     |
 
-<br><br>
+<br>
 
 📊 Key Features
 
