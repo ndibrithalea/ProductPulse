@@ -7,18 +7,18 @@ ProductPulse is an AI-powered product safety reporting and monitoring system tha
 ## 🚨 Problem
 
 Many harmful or counterfeit products go undetected because:
-- Reports are scattered across informal channels
-- No structured tracking system exists
-- Authorities often react too late, after harm has already spread
+- Reports are scattered across informal channels  
+- No structured tracking system exists  
+- Authorities often react too late, after harm has already spread  
 
 ---
 
 ## 💡 Solution
 
 ProductPulse enables:
-- Real-time reporting of product issues
-- Trust-weighted risk scoring
-- Aggregation of reports into product-level intelligence
+- Real-time reporting of product issues  
+- Trust-weighted risk scoring  
+- Aggregation of reports into product-level intelligence  
 
 By combining severity and credibility, the system identifies high-risk products early and supports faster, data-driven decision-making.
 
@@ -33,6 +33,28 @@ By combining severity and credibility, the system identifies high-risk products 
 3. A Risk Score is calculated  
 4. Reports are aggregated across products  
 5. High-risk products are flagged for attention  
+
+---
+
+## 🗄️ Data Structure (Backend)
+
+ProductPulse is powered by a structured data model that captures and processes product safety reports.
+
+Each report includes:
+- Product Name  
+- Severity Level (Minor, Moderate, Severe)  
+- Reporter Type (Community, Verified, Organization)  
+- Risk Score (calculated)  
+- Submission Timestamp  
+
+This structured schema enables:
+- Consistent data collection  
+- Risk scoring logic  
+- Aggregation across reports  
+- Real-time analytics and dashboards  
+
+👉 View raw dataset:  
+https://airtable.com/apphU5i8m1GuU4uc2/shrQKxDwFcBipZqnP/tblgWH7zMwmD7opdC/viwmF1hKViRsJf27O
 
 ---
 
@@ -74,8 +96,8 @@ ProductPulse helps governments and regulatory bodies:
 - Detect harmful products earlier  
 - Identify patterns across categories and regions  
 - Prioritize inspections and enforcement  
-- Make evidence-based policy decisions
-- Strengthen the feedback loop between communities and public institutions through structured citizen reporting
+- Make evidence-based policy decisions  
+- Strengthen the feedback loop between communities and institutions  
 
 This shifts product safety from reactive responses to proactive intervention.
 
@@ -105,108 +127,113 @@ AI tools were used to:
 - Develop the risk scoring logic  
 - Structure workflows and reporting system  
 
-AI enabled the rapid development of a functional and scalable proof of concept.
+AI enabled rapid development of a functional and scalable proof of concept.
 
 ---
 
 ## 🎥 Demo
 
-Watch the full demo here: 
+Watch the full demo here:  
 
 👉 https://youtu.be/Z5zk17AzDuE
 
+---
+
 ## 🌐 Explore the Live System (Airtable Interface)
 
-You can explore different parts of ProductPulse through the live interface views below:
+### 📊 Risk Monitoring Dashboard  
+👉 https://airtable.com/apphU5i8m1GuU4uc2/shrZsDKbMKJGDrDd2  
+
+---
+
+### 🚨 High Risk Alerts  
+👉 https://airtable.com/apphU5i8m1GuU4uc2/shrnzAQdsttDuAtOZ  
+
+---
+
+### 📈 Product Risk Analysis  
+👉 https://airtable.com/apphU5i8m1GuU4uc2/shrVuMuLiotglA03A  
+
+---
+
+### 🗂️ Raw Reporting Data  
+👉 https://airtable.com/apphU5i8m1GuU4uc2/shrQKxDwFcBipZqnP/tblgWH7zMwmD7opdC/viwmF1hKViRsJf27O  
+
+---
+
+💡 Note: If Airtable requires sign-in, the full walkthrough is available in the demo video.
+
+---
+
+## 📸 Dashboard Preview
 
 ### 📊 Risk Monitoring Dashboard
-
-View overall system activity, risk scores, and trends. You can sort the data:
-
-👉 https://airtable.com/apphU5i8m1GuU4uc2/shrZsDKbMKJGDrDd2
+![Risk Monitoring Dashboard](demo/screenshots/Risk_Monitoring_Dashboard.png)
 
 ---
 
 ### 🚨 High Risk Alerts
-
-See products flagged as high risk based on aggregated reports:
-
-👉 https://airtable.com/apphU5i8m1GuU4uc2/shrnzAQdsttDuAtOZ
+![High Risk Alerts](demo/screenshots/High_Risk_Alerts.png)
 
 ---
 
 ### 📈 Product Risk Analysis
-
-Explore insights by product category and severity patterns:
-
-👉 https://airtable.com/apphU5i8m1GuU4uc2/shrVuMuLiotglA03A
+![Report Counts](demo/screenshots/Report_Counts.png)
 
 ---
 
-### 🗂️ Raw Reporting Data (Optional)
-
-View the underlying dataset used to power the system:
-
-👉 https://airtable.com/apphU5i8m1GuU4uc2/shrQKxDwFcBipZqnP/tblgWH7zMwmD7opdC/viwmF1hKViRsJf27O
+### 📋 Report Management
+![Report Management](demo/screenshots/Report_Management.png)
 
 ---
 
-💡 Note: If Airtable requires sign-in, the full system walkthrough is available in the demo video.
+### 🔍 Grouped View
+![Group View](demo/screenshots/Group_View.png)
+
+---
+
+### ⚡ Sorted by Risk Score
+![Sorted View](demo/screenshots/Sort_Using_Risk_Score.png)
 
 ---
 
 ## 🌍 Real-World Considerations
 
-ProductPulse is designed with real-world deployment conditions in mind:
+### 🔐 Trust & Verification
+- Structured severity classification  
+- Reporter credibility weighting  
+- Aggregation across multiple reports  
 
 ---
 
-## 🔐 Trust & Verification
-
-- Structured severity classification (Minor, Moderate, Severe)
-- Reporter credibility weighting (Community, Verified, Organization)
-- Aggregation of multiple reports into product-level insights
-
-These mechanisms ensure that information is validated through consistency and patterns across reports.
+### 📶 Low Bandwidth & Accessibility
+- Lightweight system design  
+- Minimal interaction required  
+- Future support for SMS/USSD  
 
 ---
 
-## 📶 Low Bandwidth & Accessibility
-
-- Lightweight data structure and simple interface design
-- Minimal interaction required to submit reports
-- Future support for SMS/USSD-based reporting
+### ♿ Accessibility & Inclusion
+- Clear visual indicators  
+- Simple reporting workflows  
 
 ---
 
-## ♿ Accessibility & Inclusion
-
-- Clear visual indicators for risk levels
-- Simple reporting workflows
-- Designed for users with varying digital literacy
+### 🔒 Privacy & Security
+- No sensitive personal data required  
+- Reporter identity abstracted  
 
 ---
 
-## 🔒 Privacy & Security
-
-- No requirement for sensitive personal data
-- Reporter identity abstracted into trust categories
-- Focus on safe and anonymous reporting
+### 🌍 Multilingual & Local Relevance
+- Adaptable across regions  
+- Supports multilingual deployment  
 
 ---
 
-## 🌍 Multilingual & Local Relevance
+### 👉 Clear Next Steps
 
-- Adaptable to different regions and regulatory systems
-- Supports multilingual deployment
-- Future integration of location intelligence for regional insights
-
----
-
-## 👉 Clear Next Steps
-
-ProductPulse does not just present data — it enables action:
-
-- Helps authorities prioritize inspections
-- Supports early detection and product recalls
-- Enables targeted enforcement based on real-time risk signals
+ProductPulse enables action by:
+- Supporting inspections  
+- Enabling product recalls  
+- Driving targeted enforcement  
