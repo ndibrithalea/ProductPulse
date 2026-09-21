@@ -1,6 +1,6 @@
 #Future Scope
 
-Add location-based tracking
-Enable real-time alerts to authorities
-Integrate machine learning for product verification
-Expand to cross-country reporting
+_Add location-based tracking
+_Enable real-time alerts to authorities
+_Integrate machine learning for product verification
+_Expand to cross-country reporting
