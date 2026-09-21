@@ -142,3 +142,56 @@ View the underlying dataset used to power the system:<br>
 ---
 
 💡 Note: If Airtable requires sign-in, the full system walkthrough is available in the demo video.
+
+---
+
+###🌍 Real-World Considerations
+
+ProductPulse is designed with real-world deployment conditions in mind:
+
+---
+
+###🔐 Trust & Verification
+Structured severity classification (Minor, Moderate, Severe)
+Reporter credibility weighting (Community, Verified, Organization)
+Aggregation of multiple reports into product-level insights
+
+These mechanisms ensure that information is validated through consistency and patterns across reports.
+
+---
+
+###📶 Low Bandwidth & Accessibility
+Lightweight data structure and simple interface design
+Minimal interaction required to submit reports
+Future support for SMS/USSD-based reporting
+
+---
+
+###♿ Accessibility & Inclusion
+Clear visual indicators for risk levels
+Simple reporting workflows
+Designed for users with varying digital literacy
+
+---
+
+###🔒 Privacy & Security
+No requirement for sensitive personal data
+Reporter identity abstracted into trust categories
+Focus on safe and anonymous reporting
+
+---
+
+###🌍 Multilingual & Local Relevance
+Adaptable to different regions and regulatory systems
+Supports multilingual deployment
+Future integration of location intelligence for regional insights
+
+---
+
+###👉 Clear Next Steps
+
+ProductPulse does not just present data — it enables action:
+
+Helps authorities prioritize inspections
+Supports early detection and product recalls
+Enables targeted enforcement based on real-time risk signals
