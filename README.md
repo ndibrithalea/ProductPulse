@@ -1,4 +1,4 @@
-🧠 ProductPulse
+🧠 #ProductPulse
 
 ProductPulse is an AI-powered product safety reporting and monitoring system that transforms individual user reports into actionable risk insights.
 
