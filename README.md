@@ -111,7 +111,8 @@ AI enabled rapid development of a functional and scalable proof of concept.
 
 ## 🎥 Demo
 
-Watch the full demo here:  
+Watch the full demo here: 
+
 👉 https://youtu.be/Z5zk17AzDuE
 
 ## 🌐 Explore the Live System (Airtable Interface)
@@ -132,13 +133,15 @@ See products flagged as high risk based on aggregated reports:
 ---
 
 ## 📈 Product Risk Analysis
-Explore insights by product category and severity patterns:<br>
+Explore insights by product category and severity patterns:
+
 👉 https://airtable.com/apphU5i8m1GuU4uc2/shrVuMuLiotglA03A
 
 ---
 
 ## 🗂️ Raw Reporting Data (Optional)
-View the underlying dataset used to power the system:<br>
+View the underlying dataset used to power the system:
+
 👉 https://airtable.com/apphU5i8m1GuU4uc2/shrQKxDwFcBipZqnP/tblgWH7zMwmD7opdC/viwmF1hKViRsJf27O
 
 ---
@@ -153,7 +156,8 @@ ProductPulse is designed with real-world deployment conditions in mind:
 
 ---
 
-## 🔐 Trust & Verification<br>
+## 🔐 Trust & Verification
+
 - Structured severity classification (Minor, Moderate, Severe)
 - Reporter credibility weighting (Community, Verified, Organization)
 - Aggregation of multiple reports into product-level insights<br>
