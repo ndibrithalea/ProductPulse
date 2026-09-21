@@ -6,17 +6,17 @@ ProductPulse is an AI-powered product safety reporting and monitoring system tha
 🚨 Problem
 
 Many harmful or counterfeit products go undetected because:
-*reports are scattered
-*no structured tracking exists
-*authorities react too late
+* reports are scattered
+* no structured tracking exists
+* authorities react too late
 <br><br>
 
 💡 Solution
 
 ProductPulse enables:
-*real-time reporting of product issues
-*trust-weighted risk scoring
-*aggregation of reports into product-level insights
+* real-time reporting of product issues
+* trust-weighted risk scoring
+* aggregation of reports into product-level insights
 <br><br>
 
 ⚙️ How it works
@@ -44,6 +44,7 @@ Risk Score = Severity Score × Trust Level
 | Community    | 1     |
 | Verified     | 2     |
 | Organization | 3     |
+
 <br><br>
 
 
