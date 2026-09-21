@@ -88,13 +88,6 @@ This project was built using:
 
 ---
 
-## ▶️ How to View the Project
-
-- Demo Video: https://youtu.be/Z5zk17AzDuE  
-- Airtable Interface: *(add your shared link here if available)*  
-
----
-
 ## 📍 Future Improvements
 
 - Geolocation tracking (identify high-risk regions)  
