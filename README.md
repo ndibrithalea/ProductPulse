@@ -157,7 +157,7 @@ Watch the full demo here:
 ---
 
 ### 🗂️ Raw Reporting Data  
-👉 https://airtable.com/apphU5i8m1GuU4uc2/shrQKxDwFcBipZqnP/tblgWH7zMwmD7opdC/viwmF1hKViRsJf27O  
+👉 https://airtable.com/apphU5i8m1GuU4uc2/shrQKxDwFcBipZqnP  
 
 ---
 
